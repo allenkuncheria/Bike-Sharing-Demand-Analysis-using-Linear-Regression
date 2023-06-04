@@ -21,4 +21,4 @@ Analysis was done as per the following steps:
 - Model Interpretation
 
 # Results
-The modelling process yielded a multiple linear regression model with 13 explanatory variables having an R2 score of 0.844 on the training set and 0.8131 on the test set. The linear equation was constructed using the code outpute and the impact of the various variables was described.
+The modelling process yielded a multiple linear regression model with 13 explanatory variables having an R2 score of 0.844 on the training set and 0.8131 on the test set. The linear equation was constructed using the code output and the impact of the various variables was described.
